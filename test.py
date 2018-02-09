@@ -1,1 +1,1 @@
-print(capela())
+print(capela("Hello World!"))
